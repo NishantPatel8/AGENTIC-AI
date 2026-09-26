@@ -15,7 +15,19 @@ AGENTIC-AI/
 │   ├── Session C/               # Interactive food delivery assistant
 │   └── Session D/               # ReAct customer support agent & bug fixes
 │
-└── Assignment/                  # Hands-on progressive assignments
+└── Assignment/                  # Hands-on progressive assignments (Sessions 1 - 25)
+    ├── Session 1/               # Introduction & Fundamentals
+    ├── Session 2/               # Agentic Foundations & Prompting
+    ├── Session 3/               # Tool Usage & Function Calling
+    ├── Session 4/               # Reasoning Loops & Task Decomposition
+    ├── Session 5/               # Memory & State Management
+    ├── Session 6/               # Structured Output & Schema Validation
+    ├── Session 7/               # External Tool Integrations & Web APIs
+    ├── Session 8/               # Retrieval & Document Grounding
+    ├── Session 9/               # Agent Execution Chains & Workflows
+    ├── Session 10/              # Multi-Modal & PDF Agent Tools
+    ├── Session 11/              # Advanced Agent Protocols & Control Flow
+    ├── Session 12/              # Agent Evaluation & Guardrails
     ├── Session 13/              # Advanced Agentic Concepts (Part 2)
     ├── Session 14/              # Introduction to Model Context Protocol (MCP)
     ├── Session 15/              # LangChain + LangGraph + MCP Integration

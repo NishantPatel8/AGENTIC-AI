@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/Assignment/Session 24",
+        "${workspaceFolder}/Assignment/Session 25"
+    ],
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/Assignment/Session 24",
+        "${workspaceFolder}/Assignment/Session 25"
+    ]
+}
